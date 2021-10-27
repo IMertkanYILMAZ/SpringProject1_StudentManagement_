@@ -1,0 +1,3 @@
+3 tane DAO oluşturacaksın. Herşey 3 tane olaak mecbur.
+
+Araştır/Düşün : Tek bir controller ile yapılır mı?
